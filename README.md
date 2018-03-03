@@ -8,4 +8,4 @@ Supports the Rubberduck VBA Add-In with Tutorials and/or Examples
 
 # Proposed Business Model workflow
 
-[include](https://github.com/PeterMTaylor/VBAGroceries/blob/master/VBAGroceries%20Business%20Model.JPG)
+![alt text](https://github.com/PeterMTaylor/VBAGroceries/blob/master/VBAGroceries%20Business%20Model.JPG)
